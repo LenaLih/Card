@@ -8,7 +8,7 @@ function App() {
       <Card>
         <Photo src={photo}></Photo>
         <Box>
-          <Title>Headline</Title>
+          <Title>Headline1</Title>
           <Text>
             Faucibus. Faucibus. Sit sit sapien sit tempusrisu ut. Sit molestie
             ornare in venen.
